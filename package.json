@@ -1,0 +1,22 @@
+{
+  "name": "cat-facts",
+  "version": "1.0.0",
+  "description": "Simple portfolio website that fetches cat facts and cat photos from two different apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petar85/cat-facts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Petar85/cat-facts/issues"
+  },
+  "homepage": "https://github.com/Petar85/cat-facts#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
